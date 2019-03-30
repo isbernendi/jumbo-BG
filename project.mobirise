@@ -32,7 +32,8 @@
     "versionFirst": "4.9.7",
     "siteFonts": [],
     "uniqCompNum": 2,
-    "versionPublish": "4.9.7"
+    "versionPublish": "4.9.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
